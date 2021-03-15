@@ -6,7 +6,7 @@ In this analysis we used Javascript and HTML to create a webpage that holds a da
 
 ## Results 
 
-In the index.html file, we created 5 list elements that will allow the user to filter UFO data based on date, city, state, country and shape. The search bars include placeholder values that give the user an idea of the format in which the values are written. For example, date is written in the format of month/day/year. The image below shows the webpage prior to any searches and filtering.
+In the index.html file, we created 5 list elements that will allow the user to filter UFO data based on date, city, state, country and shape. The search bars include placeholder values that give the user an idea of the format in which the values are written. The image below shows the webpage prior to any searches and filtering.
 
 ![Data Table](Images/data_table.png)
 
