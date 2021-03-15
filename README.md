@@ -29,7 +29,7 @@ Although the user can filter for multiple criteria at the same time, the user ca
 
 1) Another filter search for duration of sighting, which can include a range slider 
 2) Adding images of sightings to enhance user experience
-3) Include dropdown menus for some of the searches so users can easily choose instead of having to type (leaves room for error)
+3) Include dropdown menus for some of the searches so users can easily choose instead of having to type (leaves room for error and empty table results)
 4) Updating UFO data to include recent sightings (data is only from 2010)
 5) Remove case sensitity for city, state, country and shape 
 6) Explicitly state the date format 
