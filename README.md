@@ -14,7 +14,7 @@ Using Javascript, we created a function to save the element, value and ID of the
 
 ![California UFO Sightings](Images/filter_search1.png)
 
-In the image below, the user is filtering for two criteria at the same time, state and shape. The user can first enter "ca" in the state search bar, press enter, enter "sphere" in the shape search bar and press enter again. Or, the user can enter "ca" in the state search bar and immediately go into typing "sphere" in the shape search bar. As soon as the user starts typing in the shape search bar, the table will already be rebuilt and loaded to only include data from California. After entering "sphere" in the shape search bar, the user must press enter to now get a new table that includes the second criteria for shape. The final table will include all spherical UFO sightings in California, as shown below. 
+In the image below, the user is filtering for two criteria at the same time, state and shape. The user can first type "ca" in the state search bar, press enter, type "sphere" in the shape search bar and press enter again. Or, the user can type "ca" in the state search bar and immediately go into typing "sphere" in the shape search bar. As soon as the user starts typing in the shape search bar, the table will already be rebuilt and loaded to only include data from California. After typing "sphere" in the shape search bar, the user must press enter to now get a new table that includes the second criteria for shape. The final table will include all spherical UFO sightings in California, as shown below. 
 
 ![Two Criteria Search](Images/filter_search2.png)
 
